@@ -1,4 +1,4 @@
-# Explore-JS-Adivinhe-o-numero
+# Rocketseat Explorer07-JS-Adivinhe-o-numero
 Projeto de estudos Explorer 
 # Estudos de Javascript e DOM 
 Este projeto tem por objetivo praticar a manipulação da DOM através de JS
