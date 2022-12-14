@@ -36,6 +36,7 @@ btnTry.addEventListener('click',handleTryClick)
 btnReset.addEventListener('click',function(){
     document.querySelector(".screen1").classList.toggle("hide")
     document.querySelector(".screen2").classList.toggle("hide")
+    randNum = Math.round(Math.random()*10);
     xAttemps = 1
 
 })
